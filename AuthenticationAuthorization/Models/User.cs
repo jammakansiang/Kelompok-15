@@ -15,7 +15,7 @@ namespace AuthenticationAuthorization.Models
 
     public class User
     {
-        //Fields
+
         public User(string username, string email, string fullName, UserRole role)
         {
             this.username = username;
